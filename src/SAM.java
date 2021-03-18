@@ -1,9 +1,9 @@
-interface Abc
+interface Abc //Single Abstract Method or Functional Interface
 {
     void show();
 }
 
-public class SAM //Single Abstract Method or Functional Interface
+public class SAM
 {
     public static void main(String[] args)
     {
